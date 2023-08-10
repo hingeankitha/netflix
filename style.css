@@ -3,7 +3,7 @@ body{
     margin: 0;
     padding: 0;
     background: black;
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7),url(images/bg.jpg));
+    background-image:url("bg.jpg");
     background-size: 1519px 650px;
     overflow-x: hidden;
     background-repeat: no-repeat;
